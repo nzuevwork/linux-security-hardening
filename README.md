@@ -19,5 +19,7 @@ Designed for Ubuntu / Debian-based systems and focused on production security be
 ⚠️ Scripts should be reviewed and tested in a staging environment before production use.
 
 ---
+## Контакты
 
-## Structure
+GitHub: [https://github.com/nzuevwork](https://github.com/nzuevwork)
+Email: [n.zuev.work@gmail.com](mailto:n.zuev.work@gmail.com)
